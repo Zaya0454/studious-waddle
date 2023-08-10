@@ -1,0 +1,6 @@
+number = []
+for num in number;
+if num % 2 == 0;
+number.append(num);
+print("Sonlarni kiriting: ", number)
+print("juft sonlar",num)
