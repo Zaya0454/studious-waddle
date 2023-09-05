@@ -1,13 +1,13 @@
-input("Hi  (Click to ENTER!)")
-print("Hello idiot!")
+#input("Hi  (Click to ENTER!)")      //START
+#print("Hello idiot!")
 
-input("Hmm  (Enter!)")
-print("Hug me more")
+#input("Hmm  (Enter!)")
+#print("Hug me more")
 
-input("Mm  (Enter!)")
-print("Mary me")
+#input("Mm  (Enter!)")
+#print("Mary me")
 
-input("LOL!  (Enter)")
-print("Lots of love")
+#input("LOL!  (Enter)")
+#print("Lots of love")
 
-print("BU hammasi xazil!!!!!!")
+#print("BU hammasi xazil!!!!!!")     //END
